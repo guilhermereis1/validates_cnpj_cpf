@@ -52,12 +52,8 @@ Regular validation options:
 
 Feel free to fork, fix and send me a pull request.
 
-== Maintainers
+Guilherme Reis
 
-* {Guilherme Reis}[https://github.com/guilhermereis1/validates_cnpj_cpf]
+* https://www.worldcode.com.br
 
-== License
-
-Released under the MIT license:
-
-* http://www.opensource.org/licenses/MIT
+![alt text](https://res.cloudinary.com/dgxdamqhe/image/upload/v1545168182/logo_wc_png_irc4l2.png)
